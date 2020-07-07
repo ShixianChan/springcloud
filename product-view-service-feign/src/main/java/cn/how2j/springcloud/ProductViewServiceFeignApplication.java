@@ -35,7 +35,7 @@ public class ProductViewServiceFeignApplication {
             while (true){
                 String strPort = scanner.nextLine();
                 if (!NumberUtil.isInteger(strPort)){
-                    System.err.println("只能是数字");
+                    System.err.println("只能是数字呢");
                     continue;
                 }
                 else {
