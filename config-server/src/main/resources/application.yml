@@ -6,7 +6,7 @@ spring:
       label: master  # label 表示 分支：
       server:
         git:
-          uri: https://github.com/chanshixian/springcloudConfig/  # uri 表示 git 地址：
+          uri: https://github.com/chanshixian/springcloudConfig/  # uri 表示 git 的地址：
           searchPaths: respo  # searchPaths 表示目录：
 eureka:
   client:
