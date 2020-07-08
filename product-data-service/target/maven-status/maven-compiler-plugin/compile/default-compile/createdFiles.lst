@@ -1,0 +1,4 @@
+cn\how2j\springcloud\controller\ProductController.class
+cn\how2j\springcloud\ProductDataServiceApplication.class
+cn\how2j\springcloud\service\ProductService.class
+cn\how2j\springcloud\pojo\Product.class
